@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api2.hiveos.farm.ico",
     "slug": "hiveos-farm-api",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 369,
     "timeDay": 369,
     "timeWeek": 369,
     "timeMonth": 369,
     "timeYear": 369,
-    "dailyMinutesDown": {
-      "2024-04-24": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pool Health",
