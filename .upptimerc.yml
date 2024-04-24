@@ -7,7 +7,7 @@ sites:
     url: https://the.hiveos.farm
   - name: Hiveos Farm API
     url: https://api2.hiveos.farm/api/v2/healthcheck
-    __dangerous__body_down_if_text_missing: 'okay'
+    __dangerous__body_down_if_text_missing: 'ok'
     assignees:
       - the3line
   - name: Pool Health
