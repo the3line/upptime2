@@ -20,8 +20,7 @@ status-website:
   name: Hiveon Status Page
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/the3line/upptime2/master/assets/HiveonLogo.svg
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Status page for the Hiveon services
   navbar:
     - title: Status
       href: /
