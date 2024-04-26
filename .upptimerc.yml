@@ -17,7 +17,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /upptime2 # where "repo" is your repository name
-  name: Hiveon Status Page
+  name: Status Page
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/the3line/upptime2/master/assets/HiveonLogo.svg
   introMessage: Status page for the Hiveon services
