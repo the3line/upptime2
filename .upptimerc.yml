@@ -22,5 +22,5 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/the3line/upptime2/master/assets/HiveonLogo.svg
   introMessage: Status page for the Hiveon services
 
-  i18n:
-    footer: Hiveon 
+i18n:
+  footer: Hiveon 
