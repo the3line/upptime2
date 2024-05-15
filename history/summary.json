@@ -42,17 +42,19 @@
     "url": "https://hiveon.net/api/v1/pool/health",
     "icon": "https://icons.duckduckgo.com/ip3/hiveon.net.ico",
     "slug": "pool-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 304,
-    "timeWeek": 240,
-    "timeMonth": 250,
-    "timeYear": 250,
-    "dailyMinutesDown": {}
+    "time": 251,
+    "timeDay": 288,
+    "timeWeek": 242,
+    "timeMonth": 251,
+    "timeYear": 251,
+    "dailyMinutesDown": {
+      "2024-05-15": 0
+    }
   }
 ]
