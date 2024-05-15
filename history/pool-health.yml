@@ -1,7 +1,7 @@
 url: https://hiveon.net/api/v1/pool/health
-status: down
-code: 503
-responseTime: 271
-lastUpdated: 2024-05-15T14:40:26.433Z
+status: up
+code: 200
+responseTime: 209
+lastUpdated: 2024-05-15T14:52:01.530Z
 startTime: 2024-04-23T10:15:17.585Z
 generator: Upptime <https://github.com/upptime/upptime>
