@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1106,
-    "timeDay": 710,
-    "timeWeek": 1153,
-    "timeMonth": 1106,
-    "timeYear": 1106,
+    "time": 1112,
+    "timeDay": 1354,
+    "timeWeek": 1169,
+    "timeMonth": 1112,
+    "timeYear": 1112,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api2.hiveos.farm.ico",
     "slug": "hiveos-farm-api",
     "status": "down",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 419,
-    "timeDay": 400,
-    "timeWeek": 438,
-    "timeMonth": 419,
-    "timeYear": 419,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 417,
+    "timeDay": 346,
+    "timeWeek": 397,
+    "timeMonth": 417,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2024-05-08": 11
     }
@@ -43,18 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiveon.net.ico",
     "slug": "pool-health",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 250,
-    "timeDay": 261,
-    "timeWeek": 240,
-    "timeMonth": 250,
-    "timeYear": 250,
-    "dailyMinutesDown": {
-      "2024-05-15": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 253,
+    "timeDay": 292,
+    "timeWeek": 255,
+    "timeMonth": 253,
+    "timeYear": 253,
+    "dailyMinutesDown": {}
   }
 ]
