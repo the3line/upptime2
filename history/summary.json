@@ -4,19 +4,19 @@
     "url": "https://the.hiveos.farm",
     "icon": "https://icons.duckduckgo.com/ip3/the.hiveos.farm.ico",
     "slug": "hiveos-farm",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1058,
-    "timeDay": 746,
-    "timeWeek": 887,
-    "timeMonth": 1015,
-    "timeYear": 1058,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1049,
+    "timeDay": 649,
+    "timeWeek": 835,
+    "timeMonth": 996,
+    "timeYear": 1049,
     "dailyMinutesDown": {
-      "2024-06-21": 11
+      "2024-06-21": 0
     }
   },
   {
