@@ -4,18 +4,20 @@
     "url": "https://the.hiveos.farm",
     "icon": "https://icons.duckduckgo.com/ip3/the.hiveos.farm.ico",
     "slug": "hiveos-farm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1070,
-    "timeDay": 1002,
-    "timeWeek": 965,
-    "timeMonth": 1041,
-    "timeYear": 1070,
-    "dailyMinutesDown": {}
+    "time": 1061,
+    "timeDay": 714,
+    "timeWeek": 897,
+    "timeMonth": 1022,
+    "timeYear": 1061,
+    "dailyMinutesDown": {
+      "2024-06-21": 0
+    }
   },
   {
     "name": "Hiveos Farm API",
