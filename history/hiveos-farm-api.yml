@@ -1,7 +1,7 @@
 url: https://api2.hiveos.farm/api/v2/healthcheck
 status: down
 code: 200
-responseTime: 866
-lastUpdated: 2024-11-15T23:13:46.941Z
+responseTime: 645
+lastUpdated: 2024-11-16T23:14:46.362Z
 startTime: 2024-04-23T10:15:16.760Z
 generator: Upptime <https://github.com/upptime/upptime>
