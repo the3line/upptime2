@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 1103,
-    "timeDay": 823,
-    "timeWeek": 1132,
-    "timeMonth": 1185,
+    "timeDay": 978,
+    "timeWeek": 1105,
+    "timeMonth": 1161,
     "timeYear": 1121,
     "dailyMinutesDown": {
       "2025-03-24": 57,
@@ -22,8 +22,7 @@
       "2024-08-29": 23,
       "2024-08-12": 45,
       "2024-08-04": 30,
-      "2024-07-28": 60,
-      "2024-07-14": 70
+      "2024-07-28": 60
     }
   },
   {
@@ -38,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 439,
-    "timeDay": 275,
-    "timeWeek": 457,
-    "timeMonth": 486,
-    "timeYear": 446,
+    "timeDay": 707,
+    "timeWeek": 464,
+    "timeMonth": 495,
+    "timeYear": 447,
     "dailyMinutesDown": {}
   },
   {
@@ -50,15 +49,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiveon.net.ico",
     "slug": "pool-health",
     "status": "up",
-    "uptime": "91.31%",
+    "uptime": "91.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.39%",
     "time": 368,
-    "timeDay": 350,
-    "timeWeek": 411,
-    "timeMonth": 410,
+    "timeDay": 328,
+    "timeWeek": 390,
+    "timeMonth": 407,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2025-04-01": 44,
